@@ -1,0 +1,26 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo hey>a.txt
+echo hello>>a.txt
+wc<a.txt>b.txt
+activities
